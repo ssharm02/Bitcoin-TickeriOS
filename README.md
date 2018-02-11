@@ -1,4 +1,4 @@
-# BitcoinTicker
+# CryptoCoinTicker
 
 iOS app, connects to the bitcoin-average API.  User can select from multiple crypto currencies including: bitcoin, ethereum, litecoin, bitcoin cash, monero, ripple and Zcash and multiple actual currencies (USD, CAD, NZD, Indian Rupee etc) and see their real time value.  
 
