@@ -8,5 +8,5 @@ iOS app, connects to the bitcoin-average API.  User can select from multiple cry
 
 
 TODO:
-Fix Currency Symbol Array bug 
-Fix Connection issue on load bug
+1.) Fix Currency Symbol Array bug 
+2.) Fix Connection issue on load bug
